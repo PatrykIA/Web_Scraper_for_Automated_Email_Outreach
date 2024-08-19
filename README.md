@@ -46,7 +46,7 @@ This project is an advanced web scraper designed to automate the process of iden
 
 - Automated Email Outreach: Automate the process of reaching out to potential clients with tailored proposals for automation solutions.
 - Lead Generation: Identify and contact businesses that might benefit from automation tools and services.
-- **Market Research: Collect and analyze contact information and business details for targeted marketing campaigns.
+- Market Research: Collect and analyze contact information and business details for targeted marketing campaigns.
 
 Authors and Contributions
 
